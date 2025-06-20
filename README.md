@@ -76,4 +76,5 @@ Course ressources
 - **Day 2: Visual perception**
 - **Day 3: Visualizing spatial data**
   - [Slides](phds25-datavizdesign/tree/main/03-maps/)
+  - [Example "DHS borders"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
   - [Example "Raster data"]()
