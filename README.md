@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Data Visualization Design
 
 ![](./ass/teaser.png)
@@ -73,7 +68,7 @@ Course ressources
 -----------------
 
 - **Day 1: Visualization design**
-  - [Slides](phds25-datavizdesign/tree/main/01-design/)
+  - [Slides](https://github.com/jschoeley/phds25-datavizdesign/blob/main/01-design/01-design.pdf)
   - [Example "England & Wales mortality sex ratios"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/ewsexratio)
   - [Excercise "Direct annotation"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/direct_annotation)
   - [Excercise "Cumulative plot reveal"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/cumulative_reveal)
