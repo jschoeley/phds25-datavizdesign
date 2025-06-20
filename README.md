@@ -73,12 +73,12 @@ Course ressources
 -----------------
 
 - **Day 1: Visualization design**
-  - [Slides](phds25-datavizdesign/01-design/)
-  - [Example "England & Wales mortality sex ratios"](phds25-datavizdesign/01-design/examples/ewsexratio/)
-  - [Excercise "Direct annotation"](phds25-datavizdesign/01-design/excercises/direct_annotation/)
-  - [Excercise "Cumulative plot reveal"](phds25-datavizdesign/01-design/excercises/cumulative_plot_reveal/)
+  - [Slides](phds25-datavizdesign/tree/main/01-design/)
+  - [Example "England & Wales mortality sex ratios"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/ewsexratio)
+  - [Excercise "Direct annotation"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/direct_annotation)
+  - [Excercise "Cumulative plot reveal"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/cumulative_reveal)
   - [Inkscape](https://inkscape.org/)
 - **Day 2: Visual perception**
 - **Day 3: Visualizing spatial data**
-  - [Slides](phds25-datavizdesign/03-maps/)
+  - [Slides](phds25-datavizdesign/tree/main/03-maps/)
   - [Example "Raster data"]()
