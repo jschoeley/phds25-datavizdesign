@@ -80,6 +80,6 @@ Course ressources
   - [Example "Raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/raster)
   - [Example "Bubble grid"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bubblegrid)
   - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
-  - [Example "Global lifetables"]((https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
+  - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
   - [Excercise "Background map"]()
   - [Excercise "Tricolore"]()
