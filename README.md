@@ -74,6 +74,7 @@ Course ressources
   - [Excercise "Cumulative plot reveal"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/cumulative_reveal)
   - [Inkscape](https://inkscape.org/)
 - **Day 2: Visual perception**
+  - [Example "Lexis surface plots and the effective use of color"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lexiscolors)
 - **Day 3: Visualizing spatial data**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/03-maps)
   - [Example "DHS borders"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
