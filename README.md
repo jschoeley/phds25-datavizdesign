@@ -85,6 +85,7 @@ Course ressources
   - [Example "Background map"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/backgroundmap)
 - **Day 4: Visualizing spatial data 2**
   - [Example "French TFR"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/frenchtfr)
+  - [Example "Bivariate Fertility"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bivarfertility)
   - [Example "Tricolore"](https://cran.r-project.org/web/packages/tricolore/vignettes/choropleth_maps_with_tricolore.html)
   - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
   - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
