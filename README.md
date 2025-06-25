@@ -76,13 +76,15 @@ Course ressources
 - **Day 2: Visual perception**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/02-perception)
   - [Example "Lexis surface plots and the effective use of color"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lexiscolors)
-- **Day 3: Visualizing spatial data**
+- **Day 3: Visualizing spatial data 1**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/03-maps)
   - [Example "DHS borders"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
   - [Example "Raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/raster)
   - [Example "Nonspatial raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/viscomplexis-smallmultiples)
-  - [Example "Bubble grid"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bubblegrid)
-  - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
-  - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
   - [Example "Background map"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/backgroundmap)
+- **Day 4: Visualizing spatial data 2**
+  - [Example "French TFR"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/frenchtfr)
   - [Example "Tricolore"](https://cran.r-project.org/web/packages/tricolore/vignettes/choropleth_maps_with_tricolore.html)
+  - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
+  - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
+  - [Example "Bubble grid"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bubblegrid)
