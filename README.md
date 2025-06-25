@@ -84,5 +84,5 @@ Course ressources
   - [Example "Bubble grid"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bubblegrid)
   - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
   - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
-  - [Excercise "Background map"]()
-  - [Excercise "Tricolore"]()
+  - [Example "Background map"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/backgroundmap)
+  - [Example "Tricolore"](https://cran.r-project.org/web/packages/tricolore/vignettes/choropleth_maps_with_tricolore.html)
