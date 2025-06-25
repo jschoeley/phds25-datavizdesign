@@ -78,6 +78,7 @@ Course ressources
   - [Example "Lexis surface plots and the effective use of color"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lexiscolors)
 - **Day 3: Visualizing spatial data 1**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/03-maps)
+  - [Excercise "Basemap"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/basemap)
   - [Example "DHS borders"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
   - [Example "Raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/raster)
   - [Example "Nonspatial raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/viscomplexis-smallmultiples)
