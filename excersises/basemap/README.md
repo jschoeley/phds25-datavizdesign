@@ -1,6 +1,7 @@
 # Basemap
 
 Create a basemap of a region of interest like the one shown below for France. The map should feature
+
 	- a highlighted region of interest
 	- an annotation layer indicating points of interest
 	- the surrounding geography of your region of interest
