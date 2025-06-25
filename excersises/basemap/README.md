@@ -2,9 +2,9 @@
 
 Create a basemap of a region of interest like the one shown below for France. The map should feature
 
-	- a highlighted region of interest
-	- an annotation layer indicating points of interest
-	- the surrounding geography of your region of interest
+- a highlighted region of interest
+- an annotation layer indicating points of interest
+- the surrounding geography of your region of interest
 
 Ideally, the region of interest relates to your proposed visualization project, but it is not a strict requirement. The region also does not need to be a nation. It can be a district of a city or something else.
 
