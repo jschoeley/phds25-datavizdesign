@@ -1,0 +1,17 @@
+state_id,state_short,state_long,state_divi
+1,BW,Baden-Württemberg,BADEN_WUERTTEMBERG
+2,BY,Bayern,BAYERN
+3,BE,Berlin,BERLIN
+4,BB,Brandenburg,BRANDENBURG
+5,HB,Bremen,BREMEN
+6,HH,Hamburg,HAMBURG
+7,HE,Hessen,HESSEN
+8,MV,Mecklenburg-Vorpommern,MECKLENBURG_VORPOMMERN
+9,NI,Niedersachsen,NIEDERSACHSEN
+10,NW,Nordrhein-Westfalen,NORDRHEIN_WESTFALEN
+11,RP,Rheinland-Pfalz,RHEINLAND_PFALZ
+12,SL,Saarland,SAARLAND
+13,SN,Sachsen,SACHSEN
+14,ST,Sachsen-Anhalt,SACHSEN_ANHALT
+15,SH,Schleswig-Holstein,SCHLESWIG_HOLSTEIN
+16,TH,Thüringen,THUERINGEN

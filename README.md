@@ -90,3 +90,11 @@ Course ressources
   - [Example "Global lifetables"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lifetablesglobal)
   - [Example "Mapping uncertainty"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/mappinguncertainty)
   - [Example "Bubble grid"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bubblegrid)
+- **Day 5: Dynamic vizualizations**
+  - Animation
+    - [Example "German ICU occupation"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/germanicus)
+    - [Example "e0 animation"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/e0animate)
+  - Interactivity
+    - [Example "Likelihood guessr"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/likelihoodguessr)
+    - [Example "HMD explorer"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/hmdexplorer)
+    - [Example "Interactive TFR"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/interactivetfr)
