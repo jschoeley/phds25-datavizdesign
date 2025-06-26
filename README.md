@@ -76,14 +76,14 @@ Course ressources
 - **Day 2: Visual perception**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/02-perception)
   - [Example "Lexis surface plots and the effective use of color"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/lexiscolors)
-- **Day 3: Visualizing spatial data 1**
+- **Day 3: Visualizing spatial data**
   - [Slides](https://github.com/jschoeley/phds25-datavizdesign/tree/main/03-maps)
   - [Excercise "Basemap"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/excersises/basemap)
   - [Example "DHS borders"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
   - [Example "Raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/raster)
   - [Example "Nonspatial raster data"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/viscomplexis-smallmultiples)
   - [Example "Background map"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/backgroundmap)
-- **Day 4: Visualizing spatial data 2**
+- **Day 4: Visualizing spatial data, ctnd.**
   - [Example "French TFR"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/frenchtfr)
   - [Example "Bivariate Fertility"](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/bivarfertility)
   - [Example "Tricolore"](https://cran.r-project.org/web/packages/tricolore/vignettes/choropleth_maps_with_tricolore.html)
