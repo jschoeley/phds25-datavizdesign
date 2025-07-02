@@ -171,3 +171,5 @@ ggsave(
   fix_text_size = FALSE,
   units = 'mm'
 )
+
+saveRDS(fert, 'bivarfertility/bivarfertility.rds')
