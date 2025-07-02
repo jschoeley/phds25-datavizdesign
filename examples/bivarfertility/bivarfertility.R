@@ -2,6 +2,7 @@
 
 # Init ------------------------------------------------------------
 
+# devtools::install_github("ropensci/rnaturalearthhires")
 library(tidyverse)
 library(sf)
 library(eurostat)
@@ -44,7 +45,7 @@ ggplot(regions) +
 basemap <-
   # use the naturalearth package to download global geodata
   ne_countries(
-    type = 'countries', returnclass = 'sf', scale = 'medium'
+    type = 'countries', returnclass = 'sf', scale = 'large'
   ) |>
   # just to be explicit we state that the coordinates are expressed
   # in latitude-longitude format, i.e. https://epsg.io/4326
@@ -142,8 +143,8 @@ legend <-
   bi_legend(
     pal = 'BlueGold',
     dim = 3,
-    xlab = 'TFR ',
-    ylab = 'Mean age at birth ',
+    xlab = 'TFR',
+    ylab = 'Mean age at childbearing',
     size = 8,
     breaks = breaks
   ) +
@@ -151,8 +152,14 @@ legend <-
 
 bivarfertility <-
   ggdraw() +
-  draw_plot(bivarmap, 0, 0, 1, 1) +
-  draw_plot(legend, 0.65, 0.65, 0.3, 0.3)
+  draw_plot(bivarmap, -0.27, 0, 1.3, 1) +
+  draw_plot(legend, 0.73, 0.7, 0.29, 0.29) +
+  draw_figure_label('Data by eurostat: demo_r_find3', position = 'bottom.right') +
+  draw_figure_label('Data by eurostat: demo_r_find3', position = 'bottom.right') +
+  draw_figure_label('TFR and mean age at childbearing by German NUTS-3 region 2022',
+                    position = 'top.left', fontface = 'bold', size = 14)
+
+bivarfertility
 
 # Export ----------------------------------------------------------
 
