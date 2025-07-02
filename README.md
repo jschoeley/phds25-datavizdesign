@@ -75,7 +75,7 @@ Course ressources
   - [**Example** DHS borders](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/dhsborders)
   - [**Example** Raster data](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/raster)
   - [**Example** Nonspatial raster data](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/viscomplexis-smallmultiples)
-  - [**Example** Background map](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/backgroundmap)
+  - [**Example** Basemap](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/basemap)
   - [**Further reading** Introduction to the `terra` package](https://rspatial.org/pkg/1-introduction.html)
 - **Day 4: Visualizing spatial data, ctnd.**
   - [**Example** French TFR](https://github.com/jschoeley/phds25-datavizdesign/tree/main/examples/frenchtfr)
